@@ -1,0 +1,111 @@
+.introduction
+{
+  padding-top: 200px;
+  padding-bottom: 200px;
+  overflow: hidden;
+  position: relative;
+  background-image: url("download.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  color:white;
+  font-size:80px;
+  letter-spacing: 30px;
+  padding-left: 100px
+
+}
+body
+{
+  margin:20px;
+  border:1px solid black;
+  padding:5px;
+
+}
+
+
+.into{
+  overflow: hidden;
+  -webkit-background-size: cover;
+  margin:0 auto; text-align:justify;
+
+}
+
+.car
+{
+  background-image: url("car.jpg");
+  padding-top: 200px;
+  padding-bottom: 200px;
+  overflow: hidden;
+  position: relative;
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  color:white;
+  font-size:80px;
+  letter-spacing: 30px;
+  padding-left: 100px;
+
+
+}
+.spa{
+  background-image: url("space.jpg");
+  padding-top: 200px;
+  padding-bottom: 200px;
+  overflow: hidden;
+  position: relative;
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  color:white;
+  font-size:80px;
+  letter-spacing: 30px;
+  padding-left: 40px;
+
+}
+.bro{
+
+  background-image: url("boring.jpeg");
+  padding-top: 200px;
+  padding-bottom: 200px;
+  overflow: hidden;
+  position: relative;
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  color:white;
+  font-size:80px;
+  letter-spacing: 30px;
+  padding-left: 20px;
+}
+
+.lin
+{
+
+  background-image: url("pic.jpeg");
+  padding-top: 200px;
+  padding-bottom: 200px;
+  overflow: hidden;
+  position: relative;
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  color:white;
+  font-size:80px;
+  letter-spacing: 30px;
+  padding-left: 40px;
+}

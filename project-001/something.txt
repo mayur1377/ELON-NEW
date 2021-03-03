@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="ok.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+<section>
+  <!---------------------intro-------->
+
+    <div class="introduction">
+
+
+         <p style="font-family:arial;">ELON MUSK
+
+
+
+         </p>
+    </div>
+
+  </section>
+
+
+  <section>
+      <div style="border:0.5px solid black;margin:4px 1px 4px 1px;padding:10px;">
+    <div class="intro">
+      <p style="font-size:20px;font-family:calibri; margin-left:10px;margin-right:10px; ">
+        <span style="font-size:50px;font-weight:lighter; ">   &nbsp; &nbsp;E</span>lon Reeve Musk  is a business magnate, industrial designer, engineer, and philanthropist.He is the founder, CEO, CTO and chief designer of SpaceX; early investor, CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI.
+      </p>
+
+  </div>
+  </section>
+
+<!-------------- tesla------------------->
+
+
+  <section>
+    <div class="car">
+      <p style="font-family:arial;">TESLA</p>
+
+    </div>
+  </section>
+
+
+  <section>
+      <div style="border:0.5px solid black;margin:4px 1px 4px 1px;padding:10px;">
+
+
+<p style="font-size:20px;font-family:calibri; margin-left:10px;margin-right:10px;">
+      <span style="font-size:50px;font-weight:lighter; ">   &nbsp; &nbsp;T</span>esla’s mission has been to accelerate the world’s transition to sustainable energy. The first Tesla product, the Roadster sports car, debuted in 2008, followed by the Model S sedan, which was introduced in 2012, and the Model X SUV, which launched in 2015. Model S received Consumer Reports’ Best Overall Car and has been named the Ultimate Car of the Year by Motor Trend, while Model X was the first SUV ever to earn 5-star safety ratings in every category and sub-category in the National Highway Traffic Safety Administration’s tests. In 2017, Tesla began deliveries of Model 3, a mass-market electric vehicle with more than 320 miles of range, and unveiled Tesla Semi, which is designed to save owners at least $200,000 over a million miles based on fuel costs alone. In 2019, Tesla unveiled Cybertruck, which will have better utility than a traditional truck and more performance than a sports car, as well as the Model Y compact SUV, which began customer deliveries in early 2020.</p>
+
+    </div>
+  </section>
+<!-----------------------------space------------------->
+
+  <section>
+    <div class="spa">
+      <p style="font-family:arial;">SPACEX</p>
+    </div>
+
+  </section>
+
+
+  <section>
+  <div style="border:0.5px solid black;margin:4px 1px 4px 1px;padding:10px;">
+    <p style="font-size:20px;font-family:calibri; margin-left:10px;margin-right:10px;">
+          <span style="font-size:50px;font-weight:lighter; ">   &nbsp; &nbsp;S</span>paceX was formed by entrepreneur Elon Musk in the hopes of revolutionizing the aerospace industry and making affordable spaceflight a reality. The company entered the arena with the Falcon 1 rocket, a two-stage liquid-fueled craft designed to send small satellites into orbit. The Falcon 1 was vastly cheaper to build and operate than its competitors, a field largely populated by spacecraft built by publicly owned and government-funded companies such as Lockheed Martin and Boeing. Part of the rocket’s cost-effectiveness was made possible by the SpaceX-developed Merlin engine, a cheaper alternative to those used by other companies. SpaceX also focused on making reusable rockets</p>
+
+
+
+
+
+  </section>
+
+  <!--------------boring------------------>
+  <section>
+    <div class="bro">
+      <p style="font-family:arial;"> THE BORING COMPANY</p>
+
+    </div>
+  </section>
+
+<section>
+    <div style="border:0.5px solid black;margin:4px 1px 4px 1px;padding:10px;">
+  <p style="font-size:20px;font-family:calibri; margin-left:10px;margin-right:10px;">
+        <span style="font-size:50px;font-weight:lighter; ">   &nbsp; &nbsp;T</span>
+        he Boring Company (also known as TBC) is an American infrastructure and tunnel construction services company founded by Elon Musk in December 2016.
+
+Musk cited difficulty with Los Angeles traffic and limitations with the current two-dimensional transportation network as his early inspiration for the project. The Boring Company was initially formed in December 2016 as a subsidiary of SpaceX, becoming a separate and fully independent company in 2018. As of December 2018, 90% of the equity was owned by Musk, with 6% held by SpaceX as return for the use of SpaceX resources during the initial startup of the company. Outside investments during 2019 have changed the equity split.
+
+</section>
+
+<!-----------------------link--------------->
+<section>
+  <div class="lin">
+    <p style="font-family:arial;">NEURALINK</p>
+
+  </div>
+</section>
+<section>
+  <div style="border:0.5px solid black;margin:4px 1px 4px 1px;padding:10px;">
+  <p style="font-size:20px;font-family:calibri; margin-left:10px;margin-right:10px;">
+        <span style="font-size:50px;font-weight:lighter; ">   &nbsp; &nbsp;N</span>euralink Corporation is an American neurotechnology company founded by Elon Musk and others, developing implantable brain–machine interfaces (BMIs). The company's headquarters are in San Francisco; it was started in 2016 and was first publicly reported in March 2017.
+
+According to Bloomberg, since its founding, the company has hired several high-profile neuroscientists from various universities. By July 2019, it had received $158 million in funding (of which $100 million was from Musk) and was employing a staff of 90 employees. At that time, Neuralink announced that it was working on a "sewing machine-like" device capable of implanting very thin threads into the brain, and demonstrated a system that read information from a lab rat via 1,500 electrodes, anticipating to start experiments with humans in 2020.
+</p>
+
+</section>
+<!--------------------end-------------------->
+<section>
+  <style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#" oneclick="window.open("https://google.com")>SOURCES</a>
+
+  <a href="https://www.instagram.com/mayur_1377">CONTACT</a>
+</div>
+
+
+
+<p>CREATED BY MAYUR</p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; LEARN MORE</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+</section>
+
+
+
+
+
+</body>
+</html>
